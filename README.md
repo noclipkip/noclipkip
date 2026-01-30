@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @noclipkip
+### 👋 Hi, I’m Amar E.
 - 👀 I’m interested in working with hardware and cybersecurity.
 - 🌱 I’m know some javascript, C, and currently I am learning Java.
 <!---
